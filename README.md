@@ -1,4 +1,7 @@
-stdlib
-======
+# Furrow stdlib
 
-Compiler for the Furrow programming language.
+Standard library for the Furrow programming language.
+
+## License
+
+MIT. No attribution is necessary.
